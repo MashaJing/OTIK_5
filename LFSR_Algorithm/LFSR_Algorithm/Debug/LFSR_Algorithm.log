@@ -1,0 +1,9 @@
+﻿  LFSR.cpp
+C:\Users\mdzek\source\repos\LFSR_Algorithm\LFSR_Algorithm\LFSR.cpp(12,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mdzek\source\repos\LFSR_Algorithm\LFSR_Algorithm\LFSR.cpp(21,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mdzek\source\repos\LFSR_Algorithm\LFSR_Algorithm\LFSR.cpp(50,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\mdzek\source\repos\LFSR_Algorithm\LFSR_Algorithm\LFSR.cpp(55,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mdzek\source\repos\LFSR_Algorithm\LFSR_Algorithm\LFSR.cpp(60,49): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\mdzek\source\repos\LFSR_Algorithm\LFSR_Algorithm\LFSR.cpp(70,7): warning C4101: res: неиспользованная локальная переменная
+C:\Users\mdzek\source\repos\LFSR_Algorithm\LFSR_Algorithm\LFSR.cpp(74): warning C4715: sum_mod2: значение возвращается не при всех путях выполнения
+  LFSR_Algorithm.vcxproj -> C:\Users\mdzek\source\repos\LFSR_Algorithm\Debug\LFSR_Algorithm.exe

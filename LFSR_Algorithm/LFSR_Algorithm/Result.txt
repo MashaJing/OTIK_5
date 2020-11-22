@@ -1,0 +1,4 @@
+Generated sequence: 
+96 48 24 12 6 3 65 96 
+T = 7
+Pirsons criterion: 1
